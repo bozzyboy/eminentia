@@ -1,5 +1,5 @@
 create a symbolic link named "of" pointing to the openframeworks lib directory.
 # Windows
 ```
-mklink /D "[PathToOF]" of
+mklink /D of "[PathToOF]"
 ```

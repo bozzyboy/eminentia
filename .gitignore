@@ -35,3 +35,4 @@ build/vs2015/effects/*/bin/
 *.VC.db
 build/vs2015/effects/Expello/bin/
 build/vs2015/effects/Expello/obj/
+lib/
